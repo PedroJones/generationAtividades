@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "exercios_java"]
+	url = C:\\Users\\pedro\\Desktop\\anotações\\Generation\\eclipse\\GenerationJava\\src\\exerciciosJava
+	fetch = +refs/heads/*:refs/remotes/exercios_java/*
+[remote "exercicios_java"]
+	url = https://github.com/PedroJones/exerc-cios_em_java.git
+	fetch = +refs/heads/*:refs/remotes/exercicios_java/*
+[remote "origin"]
+	url = https://github.com/PedroJones/exerc-cios_em_java.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "github"]
+	url = C:\\Users\\pedro\\Desktop\\anotações\\Generation\\eclipse\\GenerationJava\\src\\exerciciosJava
+	fetch = +refs/heads/*:refs/remotes/github/*
